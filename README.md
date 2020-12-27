@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang = "de">
     <head>
-        <title>
-            Internetsucht Selbsthilfe
-        </title>
+        <title>Internetsucht Selbsthilfe</title>
         <meta charset="UTF-8">
         <meta name="description" content="Internetsucht braucht clevere Maßnahmen und Tools">
         <meta name="keywords" content="Internetsucht, Selbsthilfe, Dumbphone, Reizreduktion, Mimimalismus">
